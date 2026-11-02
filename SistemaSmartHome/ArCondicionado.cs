@@ -9,9 +9,6 @@ namespace SistemaSmartHome
 {
     internal class ArCondicionado
     {
-        //Tiago
-        
-        //Costa
         // 1. DECLARAÇÃO DE EVENTO (Bloco 9)
         public event EventHandler AlertaLimiteAtingido;
 
