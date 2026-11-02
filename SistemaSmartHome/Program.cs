@@ -12,6 +12,7 @@ namespace SistemaSmartHome
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("=== TESTE ===\n");
             Console.WriteLine("=== CENTRAL DE CONTROLO SMARTHOME ===\n");
             // Instanciação recorrendo ao Construtor (Bloco 2 e Bloco 5)
             ArCondicionado meuAc = new ArCondicionado("Daikin Premium");
